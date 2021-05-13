@@ -28,6 +28,7 @@ public class LoginTest {
 	public void tearDown() {
 		driver.quit();
 		System.out.println("end of testing");
+		System.out.println("one more check");
 		
 	}
 
